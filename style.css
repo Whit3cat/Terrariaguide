@@ -1,9 +1,13 @@
-.MainBody
+.CORE
 {
     width: 50%;
     height: 100%;
-    border: 0px;
+    background: gray;
     margin: auto;
-    background: black;
-    
+}
+
+*
+{
+    margin: 0;
+    padding: 0;
 }
