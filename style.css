@@ -1,20 +1,19 @@
-.CORE
-{
-    width: 65%;
-    height: 100%;
-    background: gray;
-    margin: auto;
-    box-shadow: 5px 10px 20px black;
-}
-
 body
 {
     margin: 0;
     padding: 0;
 }
 
-.toptext{
-    text-align: center;
-    font-size: 64px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+header
+{
+    width: 50%;
+    margin: auto;
+    background: #7131A8;
+}
+
+.ACenter
+{
+ text-align: center;
+ font-size: 64px;
+ font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri' , 'Trebuchet MS', sans-serif;
 }
