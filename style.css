@@ -63,3 +63,30 @@ header{
     font-size: 64px;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri' , 'Trebuchet MS', sans-serif;
 }
+.Button1{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 5%;
+    left: 25%;
+    width: 200px;
+    height: 200px;
+    background-image: url("Ranger.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #EDF55F;
+    color: white;
+    box-shadow: #A1A820 0px 0px 15px 5px;
+}
+.Button1:hover{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 5%;
+    left: 25%;
+    width: 200px;
+    height: 200px;
+    background-color: #A1A820;
+    box-shadow: #EDF55F 0px 0px 15px 5px;
+
+}
